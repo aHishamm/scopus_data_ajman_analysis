@@ -4,6 +4,7 @@ import seaborn as sns
 import plotly.express as px 
 import streamlit as st 
 import func as fc 
+
 #setting up streamlit 
 st.set_page_config(layout='wide') 
 optionList = fc.OPTIONS
