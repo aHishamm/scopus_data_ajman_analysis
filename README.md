@@ -1,2 +1,4 @@
 # scopus_data_ajman_analysis
-This is a simple project built with Streamlit to visualize the Scopus research data coming out of Ajman University 
+This is a simple project built with Streamlit to visualize the Scopus research data coming out of Ajman University  
+
+Project is hosted on HuggingFace: https://huggingface.co/spaces/ahishamm/biassignment1
