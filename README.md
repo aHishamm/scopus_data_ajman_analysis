@@ -3,7 +3,14 @@ This is a simple project built with Streamlit to visualize the Scopus research d
 
 Project is hosted on HuggingFace: https://huggingface.co/spaces/ahishamm/biassignment1
 
-
+#### Installation 
+- To install this locally, you need to create a conda environment 
+```bash
+conda create -n streamenv python=3.10 
+conda activate streamenv 
+pip install -r requirements.txt 
+streamlit run app.py
+```
 #### Deployment as a Docker Container 
 - To create a Docker container, a Dockerfile is provided. Make sure Docker Desktop is installed. The Dockerfile contains the following
 ```bash
