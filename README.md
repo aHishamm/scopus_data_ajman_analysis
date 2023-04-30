@@ -32,4 +32,13 @@ docker run -p 7250:7250 --name scopuscontainer scopusimage
 ```
 
 #### Project Preview (Updated)
+Preview 1. 
+<img width="1440" alt="Screenshot 2023-04-30 at 6 09 06 PM" src="https://user-images.githubusercontent.com/40188935/235357607-d12167c6-aa77-452a-ab90-53158486d5c1.png">
+Preview 2. 
+<img width="1440" alt="Screenshot 2023-04-30 at 6 09 13 PM" src="https://user-images.githubusercontent.com/40188935/235357621-973be212-a4b1-4d7c-a846-6182436079c5.png">
+Preview 3. 
+<img width="1440" alt="Screenshot 2023-04-30 at 6 11 25 PM" src="https://user-images.githubusercontent.com/40188935/235357637-19b5313b-fd95-43ee-8143-427d8934d48f.png">
+Preview 4. 
+<img width="1440" alt="Screenshot 2023-04-30 at 6 11 33 PM" src="https://user-images.githubusercontent.com/40188935/235357656-61bb8239-8efa-4a11-865b-dd4ac2caad0b.png">
+
 
